@@ -11,4 +11,7 @@ public class Jarra {
             capacidad = n;
         }
     }
+    public void llena(){
+        contenido = capacidad;
+    }
 }
